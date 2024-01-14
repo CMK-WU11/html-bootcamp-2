@@ -12,7 +12,8 @@ Du skal i denne opgave arbejde med at replikere en hjemmeside i HTML.
 * Du skal overveje hvilke sammenhænge både billeder og tekst indgår i, dvs. semantik, og lave din kode derefter.
 * Du må gerne bruge placeholdere i stedet for artiklernes billeder.
 
-### Aflevering
-Afleveringen foregår på GitHub. Lav en pull-request til det oprindelige repository fra din egen klon.
+**Aflevering**
+Din aflevering foregår på GitHub, så dit sidste commit/push er din aflevering.
+Du skal aflevere i classroom-repositoriet.
 
 Husk at pushe ofte (et push i minuttet holder læreren væk).
